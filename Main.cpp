@@ -37,11 +37,6 @@ int main()
 		return -1;
 	}
 
-    vector<int> t;
-    map<string, int> accounts;
-    accounts["Smit"] = 7654321;
-    accounts["Larissa"] = 8866772;
-
     while (window.isOpen())
     {
         /*
